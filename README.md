@@ -1,10 +1,10 @@
-### Olá
+### 
 ###
 
 <div>
   <!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julianavcarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-senaisp&layout=compact&langs_count=16&theme=dark"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-senaisp&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
   ##
