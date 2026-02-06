@@ -7,6 +7,10 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-senaisp&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/juliana-senaisp/juliana-senaisp/output/snake.svg" />
+</div>
+
   ##
   
 <div>
