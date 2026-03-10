@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou a Juliana Tatin
 
-💻 **Professora, Pesquisadora, Desenvolvedora e para sempre aluna**
+💻 **Professora, Pesquisadora, Desenvolvedora e para sempre aluna** 
+##
 Perfil Dedicado as atividade e materiais educacionais.
 Atuo ensinando desenvolvimento web e programação, ajudando alunos a desenvolverem suas primeiras soluções utilizando tecnologias modernas.
 
