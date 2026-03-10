@@ -8,7 +8,7 @@ Atuo ensinando desenvolvimento web e programação, ajudando alunos a desenvolve
 
 ## 🚀 Tecnologias e Ferramentas
 
-<div align="center">
+<div>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,mysql,figma,git,github,vscode" />
 
@@ -57,7 +57,7 @@ Durante minhas aulas e projetos trabalho com:
 
 ## 📫 Contato
 
-<div align="center">
+<div>
 
 <a href="mailto:juliana.carvalho@sp.senai.br">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
