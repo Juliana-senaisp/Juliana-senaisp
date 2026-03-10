@@ -10,7 +10,9 @@
   ##
   
 <div align="center">
-<img src="https://raw.githubusercontent.com/Juliana-senaisp/Juliana-senaisp/output/snake.svg" />
+
+<img src="https://raw.githubusercontent.com/Juliana-senaisp/Juliana-senaisp/output/github-snake.svg" />
+
 </div>
 
   ##
