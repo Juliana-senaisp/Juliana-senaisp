@@ -17,16 +17,15 @@ Atuo ensinando desenvolvimento web e programação, ajudando alunos a desenvolve
 
 ---
 
-## Estatísticas do GitHub
+## 📊 Estatísticas
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juliana-senaisp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-senaisp&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=1800"/>
+|  |  |
+|---|---|
+| <img src="https://streak-stats.demolab.com?user=Juliana-senaisp&theme=tokyonight&hide_border=true"/> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juliana-senaisp&theme=tokyo-night"/> |
 
 </div>
-
 ---
 
 ## Contribuições no GitHub
