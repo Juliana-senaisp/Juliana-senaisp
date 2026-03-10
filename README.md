@@ -7,7 +7,7 @@ Atuo ensinando desenvolvimento web e programação, ajudando alunos a desenvolve
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <div>
 
