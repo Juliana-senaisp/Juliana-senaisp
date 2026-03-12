@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Juliana Tatin
+# Olá, eu sou a Juliana Tatin
 
 💻 **Professora, Pesquisadora, Desenvolvedora e para sempre Aluna** 
 
