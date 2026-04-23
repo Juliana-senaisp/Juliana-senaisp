@@ -37,7 +37,7 @@ Atuo ensinando desenvolvimento web e programação, ajudando alunos a desenvolve
 </table>
 
 </div>
----
+
 
 ## Contribuições no GitHub
 
